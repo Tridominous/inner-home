@@ -1,6 +1,7 @@
 
 import HeroSection from './sections/HeroSection'
 import { Navbar } from './sections/Navbar'
+import Testimonial from './sections/Testimonial'
 
 function App() {
   
@@ -8,6 +9,7 @@ function App() {
     <main className='w-full'>
       <Navbar/>
       <HeroSection/>
+      <Testimonial/>
     </main>
   )
 }
