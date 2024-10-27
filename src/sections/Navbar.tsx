@@ -70,7 +70,7 @@ export const Navbar = () => {
                 <div className="relative">
                     <div className=" bg-yellow-300 px-8 py-3  shadow-lg">
                         <p className="text-[#8B7BAF] whitespace-nowrap text-sm font-bold">
-                            navigate the gardens through the eyes of [name]
+                            Navigate the gardens through the eyes of [name]
                         </p>
                     </div>
                     {/* Triangle pointer */}

@@ -7,7 +7,23 @@
 }
 
 body {
-  background: #524F81;   
+  background: #3b385e;   
   font-family: 'Poppins', sans-serif;
 
 }
+
+/* @layer utilities {
+  .clip-octagon {
+    clip-path: polygon(
+      82.84% 100%, 100% 82.84%, 100% 17.16%, 82.84% 0%, 
+      17.16% 0%, 0% 17.16%, 0% 82.84%, 17.16% 100%
+    );
+  }
+
+  .clip-hexagon {
+    clip-path: polygon(
+      100% 50%, 87.25% 64.8%, 10.75% 64.8%, 0% 50%, 
+      10.75% 35.2%, 87.25% 35.2%
+    );
+  }
+} */

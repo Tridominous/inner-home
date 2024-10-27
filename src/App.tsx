@@ -1,5 +1,5 @@
 
-import './App.css'
+import HeroSection from './sections/HeroSection'
 import { Navbar } from './sections/Navbar'
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
   return (
     <main className='w-full'>
       <Navbar/>
+      <HeroSection/>
     </main>
   )
 }
