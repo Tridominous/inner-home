@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+##Fork or Clone the repository using:##
+git clone https://github.com/Tridominous/inner-home
+
+##Install Dependencies and Run##
+npm install
+npm run dev
